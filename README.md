@@ -1,4 +1,4 @@
-# 💼 Kavya T — Developer Portfolio
+# 💼 Kavya T —  Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portfolio-8.8%20CGPA-blue?style=for-the-badge" />
